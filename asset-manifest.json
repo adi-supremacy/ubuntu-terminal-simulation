@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ubuntu-terminal-simulation/static/css/main.0c08a87a.css",
+    "main.js": "/ubuntu-terminal-simulation/static/js/main.cd934c03.js",
+    "index.html": "/ubuntu-terminal-simulation/index.html",
+    "main.0c08a87a.css.map": "/ubuntu-terminal-simulation/static/css/main.0c08a87a.css.map",
+    "main.cd934c03.js.map": "/ubuntu-terminal-simulation/static/js/main.cd934c03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c08a87a.css",
+    "static/js/main.cd934c03.js"
+  ]
+}
