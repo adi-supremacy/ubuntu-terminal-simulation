@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ubuntu-terminal-simulation/static/css/main.06d3d5ac.css",
-    "main.js": "/ubuntu-terminal-simulation/static/js/main.82f4553e.js",
+    "main.js": "/ubuntu-terminal-simulation/static/js/main.52955df8.js",
     "index.html": "/ubuntu-terminal-simulation/index.html",
     "main.06d3d5ac.css.map": "/ubuntu-terminal-simulation/static/css/main.06d3d5ac.css.map",
-    "main.82f4553e.js.map": "/ubuntu-terminal-simulation/static/js/main.82f4553e.js.map"
+    "main.52955df8.js.map": "/ubuntu-terminal-simulation/static/js/main.52955df8.js.map"
   },
   "entrypoints": [
     "static/css/main.06d3d5ac.css",
-    "static/js/main.82f4553e.js"
+    "static/js/main.52955df8.js"
   ]
 }
